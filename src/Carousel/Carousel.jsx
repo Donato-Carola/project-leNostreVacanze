@@ -49,7 +49,7 @@ const Carousel = () => {
               </div>
             );
           })}
-          <div className="flex justify-between absolute top-52  translate-y-1/2   w-full px-2 z-30">
+          <div className="flex justify-between absolute top-52 translate-y-1/2   w-full px-2 z-30">
             <button className="btn" onClick={prevSlide}>
               Prev
             </button>
