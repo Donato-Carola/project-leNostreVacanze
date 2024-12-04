@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://res.cloudinary.com/thomasdea/image/upload/v1612475711/react-api-course/holiday/parigi_u6ff8p.jpg",
+    "name": "Parigi (Piace alla tua donna)",
+    "description": "Battuta facile su Zidane, la Gioconda e le baguette. Ma alla fine ci vai perché c'è la torre quella dritta di ferro che fa bene all'amore"
+  },
+  {
+    "id": 2,
+    "img": "https://res.cloudinary.com/thomasdea/image/upload/v1612475711/react-api-course/holiday/atene_jvluu8.jpg",
+    "name": "Atene, Culla della Democrazia",
+    "description": "Volevi andare a Mykonos ma ti hanno incastrato qui. Non disperare al 4 giorno sarai a Corfù con un motorino affittato"
+  },
+  {
+    "id": 3,
+    "img": "https://res.cloudinary.com/thomasdea/image/upload/v1612475710/react-api-course/holiday/Barcellona_pbe54f.jpg",
+    "name": "Barcellona: Arte, Spiagga e Droga",
+    "description": "Per far sapere ai tuoi amici e genitori che ti droghi ora non devi andare più fino ad Amsterdam. C'è anche il mare."
+  },
+  {
+    "id": 4,
+    "img": "https://res.cloudinary.com/thomasdea/image/upload/v1612475710/react-api-course/holiday/chicago_d5dvm9.jpg",
+    "name": "Chicago, dove 23 non sono le ore",
+    "description": "I'm baby godard mumblecore post-ironic synth fam, mlkshk hell of craft beer biodiesel lo-fi YOLO disrupt organic hella heirloom."
+  }
+]
