@@ -43,7 +43,6 @@ const Carousel = () => {
                     >
                       ❮
                     </a>
-
                     {/* Pulsante successivo */}
                     <a
                       href={`#id${index === city.length - 1 ? 1 : index + 2}`}
