@@ -29,7 +29,7 @@ const Carousel = () => {
     <>
      <div className="container mx-auto">
       {city.length > 0 && (
-        <div className="card-container relative">
+        <div className="card-container relative ">
           {city.map((el, index) => {
             const { id, img, name, description } = el;
             return (
